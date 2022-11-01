@@ -1,0 +1,6 @@
+guru\sfg\beer\order\service\web\model\BeerDto.class
+guru\sfg\beer\order\service\web\model\BeerDto$BeerDtoBuilder.class
+guru\sfg\beer\order\service\web\mappers\BeerOrderLineMapperDecorator.class
+guru\sfg\beer\order\service\services\beer\BeerService.class
+guru\sfg\beer\order\service\services\beer\BeerServiceImpl.class
+guru\sfg\beer\order\service\web\mappers\BeerOrderLineMapperImpl_.class
