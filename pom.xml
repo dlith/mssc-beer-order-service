@@ -9,8 +9,8 @@
         <version>1.0.22</version>
     </parent>
 
-    <artifactId>sfg-brewery-order-service</artifactId>
-    <version>1.0.3-SNAPSHOT</version>
+    <artifactId>mssc-beer-order-service</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
     <name>SFG Brewery Order Service</name>
 
     <description>SFG Brewery Order Service</description>
