@@ -19,11 +19,12 @@ D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\beer\BeerServiceImpl.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\BeerOrderLine.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\mappers\BeerOrderMapper.java
+D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\BeerOrderStatusEnum.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\repositories\BeerOrderLineRepository.java
-D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\OrderStatusEnum.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\web\model\OrderStatusEnum.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\bootstrap\BeerOrderBootStrap.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\BeerOrderServiceImpl.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\BeerOrderServiceApplication.java
+D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\config\JmsConfig.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\domain\Customer.java
 D:\demo\Spring boot microservices with spring cloud\mssc-beer-order-service\src\main\java\guru\sfg\beer\order\service\services\TastingRoomService.java
