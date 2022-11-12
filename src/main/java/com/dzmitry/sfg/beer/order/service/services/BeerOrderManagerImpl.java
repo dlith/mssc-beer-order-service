@@ -59,7 +59,6 @@ public class BeerOrderManagerImpl implements BeerOrderManager {
                 sendBeerOrderEvent(beerOrder, BeerOrderEventEnum.VALIDATION_FAILED);
             }
         }, () -> log.error("Order Not Found. Id: " + beerOrderId));
-
     }
 
     @Override
