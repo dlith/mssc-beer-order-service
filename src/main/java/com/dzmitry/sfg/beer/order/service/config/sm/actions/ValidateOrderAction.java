@@ -39,6 +39,5 @@ public class ValidateOrderAction implements Action<BeerOrderStatusEnum, BeerOrde
         }, () -> log.error("Order Not Found. Id: " + beerOrderId));
 
         log.debug("Sent Validation request to queue for order id " + beerOrderId);
-
     }
 }
